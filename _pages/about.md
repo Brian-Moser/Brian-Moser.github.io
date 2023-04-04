@@ -41,6 +41,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel
 
+ <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:UeHWp8X0CEIC'></span></strong>
+
 </div>
 </div>
 
