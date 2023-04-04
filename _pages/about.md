@@ -30,7 +30,7 @@ My research interest includes Computer Vision, Machine Learning, and Deep Learni
 
 **Brian B. Moser**, Federico Raue, Stanislav Frolov, Sebastian Palacio, Jörn Hees, Andreas Dengel
 
- [**Project Site**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:zYLM7Y9cAGgC'></span></strong>
+ [**Project Site**](https://brian-moser.github.io/hitchhikers-guide-to-sr/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:zYLM7Y9cAGgC'></span></strong>
 </div>
 </div>
 
