@@ -26,7 +26,7 @@ My research interest includes Computer Vision, Machine Learning, and Deep Learni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/hitchhikers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-2023 - [Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10041995)
+2023 - [Hitchhiker's Guide to Super-Resolution: Introduction and Recent Advances](https://ieeexplore.ieee.org/document/10041995)
 
 **Brian B. Moser**, Federico Raue, Stanislav Frolov, Sebastian Palacio, Jörn Hees, Andreas Dengel
 
