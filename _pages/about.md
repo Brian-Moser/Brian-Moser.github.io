@@ -23,6 +23,18 @@ My research interest includes Computer Vision, Machine Learning, and Deep Learni
 
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/dwa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2023 - [DWA: Differential Wavelet Amplifier for Image Super-Resolution](https://www.springerprofessional.de/dwa-differential-wavelet-amplifier-for-image-super-resolution/26073736)
+
+**Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
+
+ <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/hitchhikers.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
