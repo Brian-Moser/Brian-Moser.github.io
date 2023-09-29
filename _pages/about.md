@@ -30,8 +30,7 @@ My research interest includes Computer Vision, Machine Learning, and Deep Learni
 
 **Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
 
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
-
+ [**Project Site**](https://brian-moser.github.io/DWA/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
 </div>
 </div>
 
