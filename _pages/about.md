@@ -49,7 +49,7 @@ My research interest includes Computer Vision, Machine Learning, and Deep Learni
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR NAS Workshop 2022</div><img src='images/lessismore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-2023 - [Less Is More: Proxy Datasets in NAS Approaches](https://openaccess.thecvf.com/content/CVPR2022W/NAS/html/Moser_Less_Is_More_Proxy_Datasets_in_NAS_Approaches_CVPRW_2022_paper.html)
+2022 - [Less Is More: Proxy Datasets in NAS Approaches](https://openaccess.thecvf.com/content/CVPR2022W/NAS/html/Moser_Less_Is_More_Proxy_Datasets_in_NAS_Approaches_CVPRW_2022_paper.html)
 
 **Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel
 
