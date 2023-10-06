@@ -34,8 +34,16 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSEP 2023</div><img src='images/schedule_plan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Bridging the Gap: Infusing Natural Science Classes with Computer Science Concepts and Skills](https://link.springer.com/chapter/10.1007/978-3-031-44900-0_14), Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jerger, Christoph Thyssen, **ISSEP 2023**
+
+2022 - [Bridging the Gap: Infusing Natural Science Classes with Computer Science Concepts and Skills](https://link.springer.com/chapter/10.1007/978-3-031-44900-0_14)
+
+Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jerger, Christoph Thyssen
+
+ <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:_FxGoFyzp5QC'></span></strong>
+
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='images/hitchhikers.png' alt="sym" width="100%"></div></div>
