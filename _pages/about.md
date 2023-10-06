@@ -16,10 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About me 
-I was born in Kaiserslautern (Germany) in 1995, with thai and german origins. As a child, I always wanted to be a Scientist, especially a Computer Scientist. Computers fascinate me, and I spend most of my spare time designing programs and web pages because I enjoy problem-solving and logical thinking. I like to imagine that you can change the world with a few lines of code or the right idea in mathematics…
 
-My research interest includes Computer Vision, Machine Learning, and Deep Learning. I am currently working on the topic of Super-Resolution, which is the process of increasing the resolution of an image. I am also interested in the field of Neural Architecture Search (NAS), which is the process of automatically designing neural networks.
+Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion for science and computers began early. I aspired to be a Computer Scientist, drawn to the captivating world of coding and problem-solving. Today, I'm dedicated to exploring Artificial Intelligence with current research on Image Super-Resolution and past explorations in Neural Architecture Search and Recurrent Neural Networks.
 
 # Publications 
 
