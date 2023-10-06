@@ -69,7 +69,17 @@ Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jer
 </div>
 </div>
 
-- [DartsReNet: Exploring New RNN Cells in ReNet Architectures](https://link.springer.com/chapter/10.1007/978-3-030-61609-0_67), **Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel, **ICANN 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2020</div><img src='images/dartsrenet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2020 - [DartsReNet: Exploring New RNN Cells in ReNet Architectures](https://link.springer.com/chapter/10.1007/978-3-030-61609-0_67)
+
+**Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel
+
+ <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2019</div><img src='images/urenet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
