@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About me
+
 Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion for science and computers began early. I aspired to be a Computer Scientist, drawn to the captivating world of coding and problem-solving. Today, I'm dedicated to exploring Artificial Intelligence with current research on Image Super-Resolution and past explorations in Neural Architecture Search and Recurrent Neural Networks.
 
-# Publications 
+# List of publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/dwa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
