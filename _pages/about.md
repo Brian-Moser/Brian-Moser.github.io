@@ -64,7 +64,7 @@ Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jer
 
 **Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel
 
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:UeHWp8X0CEIC'></span></strong>
+[**Project Site**](https://brian-moser.github.io/lessismore/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
 </div>
 </div>
