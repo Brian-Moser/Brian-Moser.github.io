@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Brian B. Moser"
-description              : "PhD student. More infos at http://brian-moser.de"
+description              : "Ph.D. student in conditional generative AI for Image Super-Resolution. More infos at http://brian-moser.de"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Brian B. Moser"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "Deutsches Forschungszentrum für Künstliche Intelligenz | RPTU Kaiserslautern-Landau"
+  bio              : "German Research Center for Artificial Intelligence | RPTU Kaiserslautern-Landau"
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : 
