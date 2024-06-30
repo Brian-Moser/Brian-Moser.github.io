@@ -23,6 +23,28 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 # List of publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/diwa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2024 - [Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution](https://arxiv.org/abs/2304.01994)
+
+**Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
+
+ [**Project Site**](https://brian-moser.github.io/waving-goodbye-to-lr/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2024</div><img src='images/dspr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2024 - [A Study in Dataset Pruning for Image Super-Resolution](https://arxiv.org/abs/2403.17083)
+
+**Brian B. Moser**, Federico Raue, Andreas Dengel
+
+ [**Project Site**](https://brian-moser.github.io/dataset-pruning-in-sr/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2023</div><img src='images/dwa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
