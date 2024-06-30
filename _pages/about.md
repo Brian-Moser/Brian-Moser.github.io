@@ -34,7 +34,7 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2024</div><img src='images/dspr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN 2024</div><img src='images/dpsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 2024 - [A Study in Dataset Pruning for Image Super-Resolution](https://arxiv.org/abs/2403.17083)
