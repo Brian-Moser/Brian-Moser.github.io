@@ -23,7 +23,7 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 # List of publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/fesr' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/fesr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 2024 - [Federated Learning for Blind Image Super-Resolution](https://arxiv.org/abs/2404.17670)
