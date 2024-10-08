@@ -23,9 +23,33 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 # List of publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/diwa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICONIP 2024</div><img src='images/schedule_plan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+2024 - [Federated Learning for Blind Image Super-Resolution](https://arxiv.org/abs/2404.17670)
+
+**Brian B. Moser**, Ahmed Anwar, Federico Raue, Stanislav Frolov, Andreas Dengel
+
+ <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:5nxA0vEk-isC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FLTA 2024</div><img src='images/fedadbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2024 - [FedAD-Bench: A Unified Benchmark for Federated Unsupervised Anomaly Detection in Tabular Data](https://arxiv.org/abs/2408.04442)
+
+Ahmed Anwar, **Brian B. Moser**, Dayananda Herurkar, Federico Raue, Vinit Hegiste, Tatjana Legler, Andreas Dengel
+
+ <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:3fE2CSJIrl8C'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2024</div><img src='images/diwa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 2024 - [Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image Super-Resolution](https://arxiv.org/abs/2304.01994)
 
 **Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
