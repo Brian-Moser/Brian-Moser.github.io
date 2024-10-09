@@ -23,6 +23,18 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 # List of publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/dmsurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2024 - [Diffusion Models, Image Super-Resolution and Everything: A Survey](https://arxiv.org/abs/2401.00736)
+
+**Brian B. Moser**, Arundhati S. Shanbhag, Federico Raue, Stanislav Frolov, Sebastian Palacio, Andreas Dengel
+
+ <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:Se3iqnhoufwC'></span></strong>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/objblur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
