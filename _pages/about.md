@@ -23,6 +23,30 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 # List of publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/YODA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [Dynamic Attention-Guided Diffusion for Image Super-Resolution](https://arxiv.org/abs/2308.07977)
+
+**Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
+
+<strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:eQOLeE2rZwMC'></span></strong>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/spotdiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [SpotDiffusion: A Fast Approach For Seamless Panorama Generation Over Time](https://arxiv.org/abs/2407.15507)
+
+Stanislav Frolov, **Brian B. Moser**, Andreas Dengel
+
+ [**Project Site**]([https://brian-moser.github.io/waving-goodbye-to-lr/](https://spotdiffusion.github.io)) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:MXK_kJrjxJIC'></span></strong>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/dmsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -36,6 +60,9 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/objblur.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/spotdiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 2024 - [ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation](https://arxiv.org/abs/2404.07564)
