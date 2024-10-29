@@ -42,7 +42,7 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 Stanislav Frolov, **Brian B. Moser**, Andreas Dengel
 
- [**Project Site**]([https://brian-moser.github.io/waving-goodbye-to-lr/](https://spotdiffusion.github.io)) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:MXK_kJrjxJIC'></span></strong>
+ [**Project Site**](https://spotdiffusion.github.io) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:MXK_kJrjxJIC'></span></strong>
 
 </div>
 </div>
