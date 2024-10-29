@@ -62,9 +62,6 @@ Stanislav Frolov, **Brian B. Moser**, Andreas Dengel
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/objblur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/spotdiff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 2024 - [ObjBlur: A Curriculum Learning Approach With Progressive Object-Level Blurring for Improved Layout-to-Image Generation](https://arxiv.org/abs/2404.07564)
 
 Stanislav Frolov, **Brian B. Moser**, Sebastian Palacio, Andreas Dengel
