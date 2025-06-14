@@ -23,6 +23,18 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 # List of publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/tkgdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [TKG-DM: Training-free Chroma Key Content Generation Diffusion Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Morita_TKG-DM_Training-free_Chroma_Key_Content_Generation_Diffusion_Model_CVPR_2025_paper.pdf)
+
+Ryugo Morita, Stanislav Frolov, **Brian B. Moser**, Takahiro Shirakawa, Ko Watanabe, Andreas Dengel, Jinjia Zhou
+
+<strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:eQOLeE2rZwMC'></span></strong>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/YODA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
