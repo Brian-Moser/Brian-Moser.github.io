@@ -77,6 +77,17 @@ Vijul Shah, Ko Watanabe, **Brian B. Moser**, Andreas Dengel
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCNN 2025</div><img src='images/prune_first.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [Distill the Best, Ignore the Rest: Improving Dataset Distillation with
+Loss-Value-Based Pruning](https://arxiv.org/abs/2411.12115)
+
+**Brian B. Moser**, Federico Raue, Tobias Nauen, Stanislav Frolov, Andreas Dengel
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/dmsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
