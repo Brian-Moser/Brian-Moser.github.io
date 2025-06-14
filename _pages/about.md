@@ -30,8 +30,6 @@ Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion 
 
 Ryugo Morita, Stanislav Frolov, **Brian B. Moser**, Takahiro Shirakawa, Ko Watanabe, Andreas Dengel, Jinjia Zhou
 
-<strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:eQOLeE2rZwMC'></span></strong>
-
 </div>
 </div>
 
@@ -41,8 +39,6 @@ Ryugo Morita, Stanislav Frolov, **Brian B. Moser**, Takahiro Shirakawa, Ko Watan
 2025 - [Dynamic Attention-Guided Diffusion for Image Super-Resolution](https://arxiv.org/abs/2308.07977)
 
 **Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
-
-<strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:eQOLeE2rZwMC'></span></strong>
 
 </div>
 </div>
@@ -54,7 +50,18 @@ Ryugo Morita, Stanislav Frolov, **Brian B. Moser**, Takahiro Shirakawa, Ko Watan
 
 Stanislav Frolov, **Brian B. Moser**, Andreas Dengel
 
- [**Project Site**](https://spotdiffusion.github.io) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:MXK_kJrjxJIC'></span></strong>
+ [**Project Site**](https://spotdiffusion.github.io)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM ETRA 2025 (Best Short Paper Award)</div><img src='images/pupilsense.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [PupilSense: A Novel Application for Webcam-Based Pupil Diameter Esti-
+mation]([https://arxiv.org/abs/2407.15507](https://dl.acm.org/doi/10.1145/3715669.3723125))
+
+Vijul Shah, Ko Watanabe, **Brian B. Moser**, Andreas Dengel
 
 </div>
 </div>
@@ -66,7 +73,6 @@ Stanislav Frolov, **Brian B. Moser**, Andreas Dengel
 
 **Brian B. Moser**, Arundhati S. Shanbhag, Federico Raue, Stanislav Frolov, Sebastian Palacio, Andreas Dengel
 
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:Se3iqnhoufwC'></span></strong>
 
 </div>
 </div>
@@ -78,8 +84,6 @@ Stanislav Frolov, **Brian B. Moser**, Andreas Dengel
 
 Stanislav Frolov, **Brian B. Moser**, Sebastian Palacio, Andreas Dengel
 
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:0EnyYjriUFMC'></span></strong>
-
 </div>
 </div>
 
@@ -89,8 +93,6 @@ Stanislav Frolov, **Brian B. Moser**, Sebastian Palacio, Andreas Dengel
 2024 - [Federated Learning for Blind Image Super-Resolution](https://arxiv.org/abs/2404.17670)
 
 **Brian B. Moser**, Ahmed Anwar, Federico Raue, Stanislav Frolov, Andreas Dengel
-
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:5nxA0vEk-isC'></span></strong>
 
 </div>
 </div>
@@ -102,8 +104,6 @@ Stanislav Frolov, **Brian B. Moser**, Sebastian Palacio, Andreas Dengel
 
 Ahmed Anwar, **Brian B. Moser**, Dayananda Herurkar, Federico Raue, Vinit Hegiste, Tatjana Legler, Andreas Dengel
 
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:3fE2CSJIrl8C'></span></strong>
-
 </div>
 </div>
 
@@ -114,7 +114,7 @@ Ahmed Anwar, **Brian B. Moser**, Dayananda Herurkar, Federico Raue, Vinit Hegist
 
 **Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
 
- [**Project Site**](https://brian-moser.github.io/waving-goodbye-to-lr/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
+ [**Project Site**](https://brian-moser.github.io/waving-goodbye-to-lr/) 
 </div>
 </div>
 
@@ -125,7 +125,7 @@ Ahmed Anwar, **Brian B. Moser**, Dayananda Herurkar, Federico Raue, Vinit Hegist
 
 **Brian B. Moser**, Federico Raue, Andreas Dengel
 
- [**Project Site**](https://brian-moser.github.io/dataset-pruning-in-sr/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
+ [**Project Site**](https://brian-moser.github.io/dataset-pruning-in-sr/) 
 </div>
 </div>
 
@@ -136,7 +136,7 @@ Ahmed Anwar, **Brian B. Moser**, Dayananda Herurkar, Federico Raue, Vinit Hegist
 
 **Brian B. Moser**, Stanislav Frolov, Federico Raue, Sebastian Palacio, Andreas Dengel
 
- [**Project Site**](https://brian-moser.github.io/DWA/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:ufrVoPGSRksC'></span></strong>
+ [**Project Site**](https://brian-moser.github.io/DWA/) 
 </div>
 </div>
 
@@ -147,7 +147,6 @@ Ahmed Anwar, **Brian B. Moser**, Dayananda Herurkar, Federico Raue, Vinit Hegist
 
 Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jerger, Christoph Thyssen
 
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 </div>
 </div>
@@ -159,7 +158,7 @@ Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jer
 
 **Brian B. Moser**, Federico Raue, Stanislav Frolov, Sebastian Palacio, Jörn Hees, Andreas Dengel
 
- [**Project Site**](https://brian-moser.github.io/hitchhikers-guide-to-sr/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:zYLM7Y9cAGgC'></span></strong>
+ [**Project Site**](https://brian-moser.github.io/hitchhikers-guide-to-sr/) 
 </div>
 </div>
 
@@ -170,7 +169,7 @@ Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jer
 
 **Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel
 
-[**Project Site**](https://brian-moser.github.io/lessismore/) <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[**Project Site**](https://brian-moser.github.io/lessismore/) 
 
 </div>
 </div>
@@ -182,8 +181,6 @@ Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jer
 
 **Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel
 
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:u-x6o8ySG0sC'></span></strong>
-
 </div>
 </div>
 
@@ -193,8 +190,6 @@ Elena Yanakieva, Annette Bieniusa, Thomas Becka, **Brian B. Moser**, Dominik Jer
 2019 - [Comparison Between U-Net and U-ReNet Models in OCR Tasks](https://link.springer.com/chapter/10.1007/978-3-030-30508-6_11)
 
 **Brian B. Moser**, Federico Raue, Jörn Hees, Andreas Dengel
-
- <strong><span class='show_paper_citations' data='v6hF0VEAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 </div>
 </div>
