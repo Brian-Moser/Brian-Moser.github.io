@@ -88,6 +88,16 @@ Loss-Value-Based Pruning](https://arxiv.org/abs/2411.12115)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2025</div><img src='images/remotesr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [Multi-Label Scene Classification in Remote Sensing Benefits from Image Super-Resolution](https://arxiv.org/abs/2501.06720)
+
+Ashitha Mudraje, **Brian B. Moser**, Stanislav Frolov, Andreas Dengel
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2024</div><img src='images/dmsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
