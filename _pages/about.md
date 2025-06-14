@@ -99,6 +99,17 @@ Loss-Value-Based Pruning](https://arxiv.org/abs/2411.12115)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICAART 2024</div><img src='images/webcamsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2024 - [Webcam-based Pupil Diameter Prediction Benefits from Upscaling](https://www.scitepress.org/Papers/2025/131628/131628.pdf)
+
+Vijul Shah, **Brian B. Moser**, Ko Watanabe, Andreas Dengel
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Multimedia 2024</div><img src='images/objblur.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
