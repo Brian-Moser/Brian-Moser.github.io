@@ -55,6 +55,17 @@ Stanislav Frolov, **Brian B. Moser**, Andreas Dengel
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICIP 2025</div><img src='images/zido.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [Zoomed In, Diffused Out: Towards Local Degradation-Aware Multi-
+Diffusion for Extreme Image Super-Resolution](https://arxiv.org/abs/2411.12072)
+
+**Brian B. Moser**, Stanislav Frolov, Tobias Nauen, Federico Raue, Andreas Dengel
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM ETRA 2025 (Best Short Paper Award)</div><img src='images/pupilsense.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
