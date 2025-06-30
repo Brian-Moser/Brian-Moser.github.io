@@ -85,6 +85,8 @@ Loss-Value-Based Pruning](https://arxiv.org/abs/2411.12115)
 
 **Brian B. Moser**, Federico Raue, Tobias Nauen, Stanislav Frolov, Andreas Dengel
 
+[**Project Site**](https://brian-moser.github.io/distill-the-best/)
+
 </div>
 </div>
 
