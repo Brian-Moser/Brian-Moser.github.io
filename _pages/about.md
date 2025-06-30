@@ -19,7 +19,17 @@ redirect_from:
 
 # About me
 
-Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion for science and computers began early. I aspired to be a Computer Scientist, drawn to the captivating world of coding and problem-solving. Today, I'm dedicated to exploring Artificial Intelligence with current research on Image Super-Resolution and past explorations in Neural Architecture Search and Recurrent Neural Networks.
+Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion for science and computers began early. 
+I aspired to be a Computer Scientist, drawn to the captivating world of coding and problem-solving. 
+
+I am currently a Researcher at the German Research Institute for Artificial Intelligence (DFKI) located in Kaiserslautern, Germany. 
+My research is dedicated to pushing the boundaries of strongly-conditional generative AI, addressing complex tasks related to image enhancement and restoration. 
+Additionally, my work extends into the areas of Dataset Distillation and Coreset Selection, aiming to develop efficient methodologies for reducing and optimizing datasets for deep learning applications.
+Also, I teach "Image Generation and Enhancement" at the University of Kaiserslautern.
+
+
+My research has been published in prominent AI conferences and journals, including CVPR, WACV, IEEE TPAMI, IEEE ICIP, ACM Multimedia, IEEE TNNLS, etc. 
+I'm passionate about contributing innovative solutions to AI challenges and always keen to collaborate on projects that leverage generative models, dataset optimization, and advanced machine learning techniques.
 
 # List of publications 
 
