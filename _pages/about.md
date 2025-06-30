@@ -74,6 +74,8 @@ mation]([https://arxiv.org/abs/2407.15507](https://dl.acm.org/doi/10.1145/371566
 
 Vijul Shah, Ko Watanabe, **Brian B. Moser**, Andreas Dengel
 
+[**Project Site**](https://vijulshah.github.io/eyedentify/)
+
 </div>
 </div>
 
