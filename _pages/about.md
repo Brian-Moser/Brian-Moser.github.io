@@ -22,16 +22,26 @@ redirect_from:
 Born in 1995 in Kaiserslautern, Germany, with Thai and German roots, my passion for science and computers began early. 
 I aspired to be a Computer Scientist, drawn to the captivating world of coding and problem-solving. 
 
-I am currently a Researcher at the German Research Institute for Artificial Intelligence (DFKI) located in Kaiserslautern, Germany. 
+I am currently a Senior Researcher at the German Research Institute for Artificial Intelligence (DFKI) located in Kaiserslautern, Germany. 
 My research is dedicated to pushing the boundaries of strongly-conditional generative AI, addressing complex tasks related to image enhancement and restoration. 
-Additionally, my work extends into the areas of Dataset Distillation and Coreset Selection, aiming to develop efficient methodologies for reducing and optimizing datasets for deep learning applications.
+Additionally, my work extends into the areas of Meta-Learning, Dataset Distillation and Coreset Selection, aiming to develop efficient methodologies for reducing and optimizing datasets for deep learning applications.
 Also, I teach "Image Generation and Enhancement" at the University of Kaiserslautern.
 
 
-My research has been published in prominent AI conferences and journals, including CVPR, WACV, IEEE TPAMI, IEEE ICIP, ACM Multimedia, IEEE TNNLS, etc. 
+My research has been published in prominent AI conferences and journals, including NeurIPS, CVPR, WACV, IEEE TPAMI, IEEE TNNLS, IEEE ICIP, ACM Multimedia, etc. 
 I'm passionate about contributing innovative solutions to AI challenges and always keen to collaborate on projects that leverage generative models, dataset optimization, and advanced machine learning techniques.
 
 # List of publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ld3m.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+2025 - [Unlocking Dataset Distillation with Diffusion Models](https://openreview.net/pdf/44c9f7eaee5e75618e9864928b8dbb3ed887588e.pdf)
+
+**Brian B. Moser**, Federico Raue, Sebastian Palacio, Stanislav Frolov, Andreas Dengel
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/tkgdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
