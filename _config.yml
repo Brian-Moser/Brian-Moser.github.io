@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Brian B. Moser"
-description              : "Ph.D. student in conditional generative AI for Image Super-Resolution. More infos at http://brian-moser.de"
+title                    : "Dr. Brian B. Moser"
+description              : "AI researcher in Computer Vision, Generative AI, and Meta-Learning. More infos at http://brian-moser.de"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Brian B. Moser"
+  name             : "Dr. Brian B. Moser"
   avatar           : "images/android-chrome-192x192.png"
-  bio              : "German Research Center for Artificial Intelligence | RPTU Kaiserslautern-Landau"
+  bio              : "German Research Center for Artificial Intelligence"
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : 
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "BrianMoserDFKI"
   wikipedia        :
 
 
