@@ -33,7 +33,7 @@ I'm passionate about contributing innovative solutions to AI challenges and alwa
 
 # List of publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ld3m.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/ld3m.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 2025 - [Unlocking Dataset Distillation with Diffusion Models](https://openreview.net/pdf/44c9f7eaee5e75618e9864928b8dbb3ed887588e.pdf)
